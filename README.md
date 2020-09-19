@@ -1,3 +1,5 @@
+**IN DEVELOPMENT, USE AT OWN RISK**
+
 # Overview
 
 This repository contains the Avalanche BOLOS application for the Ledger Nano S and Ledger Nano X and tools for testing the application.
